@@ -18,13 +18,15 @@ My main areas of focus are:
 
 ## 🏆 Completed Certifications
 
+## 🏆 Completed Certifications
+
 | Certification | Institution | Completion | Details |
 |---|---|---|---|
-| Machine Learning Specialization | Stanford Online / DeepLearning.AI | April 2026 | [Verify](https://coursera.org/verify/specialization/XF2NDIR8RY3D) |
+| Machine Learning Specialization | Stanford Online / DeepLearning.AI | April 2026 | [Verify Certificate](https://coursera.org/verify/specialization/XF2NDIR8RY3D) |
 | Machine Learning Engineer | DataCamp | June 2026 | 43-hour learning track |
-| AI and Sustainability: Energy | MIT Open Learning | September 2026 | Score: 91/100 |
-| IBM Project Manager Professional Certificate | IBM / Coursera | May 2026 | Score: 97/100 |
-| Office Productivity Software Specialization | SkillUp / Coursera | April 2026 | [Verify](https://coursera.org/verify/specialization/PH0CNP78KWF5) |
+| AI and Sustainability: Energy | MIT Open Learning | September 2026 | Score: 91/100 · [View Certificate](AI-Energy/MIT_AI_and_Sustainability_Energy.pdf) |
+| IBM Project Manager Professional Certificate | IBM / Coursera | May 2026 | Score: 97/100 · [Verify Certificate](https://coursera.org/verify/professional-cert/ADZIZ1859IIV8) |
+| Office Productivity Software Specialization | SkillUp / Coursera | April 2026 | [Verify Certificate](https://coursera.org/verify/specialization/PH0CNP78KWF5) |
 
 ---
 
