@@ -18,8 +18,6 @@ My main areas of focus are:
 
 ## 🏆 Completed Certifications
 
-## 🏆 Completed Certifications
-
 | Certification | Institution | Completion | Details |
 |---|---|---|---|
 | Machine Learning Specialization | Stanford Online / DeepLearning.AI | April 2026 | [Verify Certificate](https://coursera.org/verify/specialization/XF2NDIR8RY3D) |
