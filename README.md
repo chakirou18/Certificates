@@ -18,30 +18,6 @@ Each certification reflects successfully completed training and is accompanied b
 
 ---
 
-## 📂 Certificate Organization
-
-Certificates are organized by category for easy access.
-
-```text
-Certificates/
-│
-├── README.md
-│
-├── AI-Agents/
-│
-├── Machine-Learning/
-│
-├── Embedded-AI-AIoT/
-│
-├── AI-Energy/
-│
-├── Project-Management/
-│
-└── Other-Certifications/
-```
-
----
-
 ## 🔗 Verification
 
 Official verification links are provided whenever available. Additional certificate documents may be added directly to this repository.
